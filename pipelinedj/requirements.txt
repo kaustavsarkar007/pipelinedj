@@ -1,2 +1,2 @@
-python == Python 3.10.3
+python == Python 3.10
 Django == 4.1.1
